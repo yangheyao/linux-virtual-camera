@@ -1,0 +1,5 @@
+config VIDEO_TEST
+	tristate "Test Virtual Video Test Driver"
+	default n
+	---help---
+	 Test Virtual Video Test Driver
